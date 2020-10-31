@@ -1,27 +1,32 @@
 [
   {
+    "name": "Supply Chain Survey",
+    "description": "Designed, coded and implemented a Supply Chain Survey site.",
+    "technologies": "Vue, Survey.js"
+  },
+  {
     "name": "UNSPSC code determinisation",
-    "description": "Designed, coded, implemented an Excel plug-in that will take free text inputs from an order line and determine its UNSPSC code.",
+    "description": "Designed, coded and implemented an Excel plug-in that will take free text inputs from an order line and determine its UNSPSC code.",
     "technologies": "ML.Net, C#, AI"
   },
   {
     "name": "Gate Control",
-    "description": "Designed, coded,  implemented an Android application that allowed for the capturing of truck, driver and container information together with the scanning of South African Vehicle and Driver's Licenses and photos. This information was then integrated into the in-house back-end system when connectivity was available.",
+    "description": "Designed, coded and implemented an Android application that allowed for the capturing of truck, driver and container information together with the scanning of South African Vehicle and Driver's Licenses and photos. This information was then integrated into the in-house back-end system when connectivity was available.",
     "technologies": "Xamarin, C#"
   },
   {
     "name": "Container Scales",
-    "description": "Designed, coded, implmented a module that interfaces with container scales to provide weight to an in-house module.",
+    "description": "Designed, coded and implemented a module that interfaces with container scales to provide weight to an in-house module.",
     "technologies": "VB.Net, RS232 Communications"
   },
   {
     "name": "RFID Tracing",
-    "description": "Designed, coded, implemented a RFID tracing system that associated a truck and a trailer as they moved in and out of a trailer yard. This information was integrated into the in-house back-end system.",
+    "description": "Designed, coded and implemented a RFID tracing system that associated a truck and a trailer as they moved in and out of a trailer yard. This information was integrated into the in-house back-end system.",
     "technologies": "RFID, VB.Net"
   },
   {
     "name": "Warehouse Management System",
-    "description": "Designed, coded, implemented a WMS, powering handheld scanners via IIS, that leveraged the in-house back-end. Also integrated to customer's systems to provide near real-time feedback.",
+    "description": "Designed, coded and implemented a WMS, powering handheld scanners via IIS, that leveraged the in-house back-end. Also integrated to customer's systems to provide near real-time feedback.",
     "technologies": "ASP.Net, VB.Net, WCF, SOAP, BizTalk"
   },
   {
