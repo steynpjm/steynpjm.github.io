@@ -20,8 +20,8 @@
     "technologies": "VB.Net, RS232 Communications"
   },
   {
-    "name": "RFID Tracing",
-    "description": "Designed, coded and implemented a RFID tracing system that associated a truck and a trailer as they moved in and out of a trailer yard. This information was integrated into the in-house back-end system.",
+    "name": "RFID Tracking",
+    "description": "Designed, coded and implemented a RFID tracking system that associated a truck and a trailer as they moved in and out of a trailer yard. This information was integrated into the in-house back-end system.",
     "technologies": "RFID, VB.Net"
   },
   {
