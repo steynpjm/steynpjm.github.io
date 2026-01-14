@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Supply Chain Survey",
+    "description": "Designed, coded and implemented a Supply Chain Survey site.",
+    "technologies": "Vue, Survey.js"
+  },
+  {
+    "name": "UNSPSC code determinisation",
+    "description": "Designed, coded and implemented an Excel plug-in that will take free text inputs from an order line and determine its UNSPSC code.",
+    "technologies": "ML.Net, C#, AI"
+  },
+  {
+    "name": "Gate Control",
+    "description": "Designed, coded and implemented an Android application that allowed for the capturing of truck, driver and container information together with the scanning of South African Vehicle and Driver's Licenses and photos. This information was then integrated into the in-house back-end system when connectivity was available.",
+    "technologies": "Xamarin, C#"
+  },
+  {
+    "name": "Container Scales",
+    "description": "Designed, coded and implemented a module that interfaces with container scales to provide weight to an in-house module.",
+    "technologies": "VB.Net, RS232 Communications"
+  },
+  {
+    "name": "RFID Tracking",
+    "description": "Designed, coded and implemented a RFID tracking system that associated a truck and a trailer as they moved in and out of a trailer yard. This information was integrated into the in-house back-end system.",
+    "technologies": "RFID, VB.Net"
+  },
+  {
+    "name": "Warehouse Management System",
+    "description": "Designed, coded and implemented a WMS, powering handheld scanners via IIS, that leveraged the in-house back-end. Also integrated to customer's systems to provide near real-time feedback.",
+    "technologies": "ASP.Net, VB.Net, WCF, SOAP, BizTalk"
+  },
+  {
+    "name": "Route optimisation",
+    "description": "Implemented a delivery route optimiser that took a daily snapshot of deliveries from a database and converting that into data the planner can use.",
+    "technologies": "Opsi Systems"
+  },
+  {
+    "name": "Business Integration",
+    "description": "Integrated business processes between a chemical producing company and a chemical storage company to provide near real-time supply chain glass pipe.",
+    "technologies": "webMethods platform, B2B"
+  },
+  {
+    "name": "Demand Planner Tool",
+    "description": "Created an application that allows a user to plug in various demand planner tools (mainly forecasting engines) and expose them in a generic manner. This is then used to run planning over the user input that was provided in an Excel like interface.",
+    "technologies": "VB6"
+  },
+  {
+    "name": "COM+ Component testing",
+    "description": "Created an interface reader to read COM+ component interfaces and display a graphical respresentation of it and allow it to be executed. Also allowed for scriptable input to test the interface with various input data and record the results.",
+    "technologies": "VB6"
+  },
+  {
+    "name": "Dynamic Report Executer",
+    "description": "An application that could pick up all PowerBuilder reports in a directory and allow a user to run them.",
+    "technologies": "PowerBuilder"
+  },
+  {
+    "name": "Cold Mill Simulation",
+    "description": "Simulated the processes of a stainless steel cold mill to work out the optimal production mix.",
+    "technologies": "Arena"
+  },
+  {
+    "name": "Data Conversion",
+    "description": "Converted data from other databases to Oracle. Created a mapping tool to map the tables and columns from source to destination, including conversion expressions, into a configuration file. Used this file to 'pump' the data from the source to the destination.",
+    "technologies": "PowerBuilder"
+  },
+  {
+    "name": "Shopfloor Jobcard Data Collection",
+    "description": "Collect data from shopfloor to use in OPT21 scheduler. Created input form templates using ASCII lines. Later ported to run on Windows.",
+    "technologies": "C++, DOS"
+  }
+]
